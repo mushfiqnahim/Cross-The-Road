@@ -18,8 +18,6 @@ shield_count = 2
 
 #Green car variables
 green_level = random.randint(1,10)
-
-# Spike-related variables
 spikes = []
 spike_timer = time.time()
 spike_stop = False
